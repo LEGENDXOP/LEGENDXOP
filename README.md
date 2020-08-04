@@ -1,16 +1,13 @@
-### Hi there 👋
+### Pranam 🙏
 
-<!--
-**CyberBoyAyush/CyberBoyAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About 🙋🏻‍♂️
+```python
+name = "Cyber Boy Ayush"
+who_i_am = ['Ultra Noobie🙃']
+religion = "🇮🇳"
+```
+### Stats ⚡️
 
-Here are some ideas to get you started:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
