@@ -2,9 +2,10 @@
 
 ### About 🙋🏻‍♂️
 ```python
-name = "Cyber Boy Ayush"
+Name = "Cyber Boy Ayush"
 who_i_am = ['Ultra Noobie🙃']
-religion = "🇮🇳"
+Age = "17"
+Country = "🇮🇳"
 ```
 ### Stats ⚡️
 
