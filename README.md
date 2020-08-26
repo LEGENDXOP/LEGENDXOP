@@ -15,7 +15,7 @@ Country = "🇮🇳"
 - 🥰Python Lover
 - ⚜️Most of my Repositories are for Telegram
 
-![Wrench's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&show_icons=true&theme=default&hide=stars)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&hide=dockerfile)](https://github.com/CyberBoyAyush)
 
