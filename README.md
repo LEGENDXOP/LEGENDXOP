@@ -10,12 +10,13 @@ Country = "🇮🇳"
 #### 
 [![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](https:mailto:cyberboyayush@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Views&color=blue&style=plastic" alt="CyberBoyAyush" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
 - ⚜️Most of my Repositories are for Telegram
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&show_icons=true&title_color=333&icon_color=333&count_private=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&hide=dockerfile)](https://github.com/CyberBoyAyush)
 
