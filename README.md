@@ -35,4 +35,4 @@ Country = "🇮🇳"
 </p>
 
 ## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate-UPI-orange)](https://upayi.me/ayushsharma.fam@idfcbank)
+[![Donate](https://img.shields.io/badge/Donate-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
