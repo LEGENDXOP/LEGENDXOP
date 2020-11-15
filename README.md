@@ -23,3 +23,13 @@ Country = "🇮🇳"
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-blueviolet?style=for-the-badge&logo=git&logoColor=white)](https://visi.tk/CyberBoyAyush)
 
 
+## Follow on:
+<p align="left">
+<a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+</p>
+<p align="left">
+<a href="https://twitter.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+</p>
+
+## Donate Me:
+[![Donate](https://img.shields.io/badge/Donate-UPI-orange)](https://upayi.me/ayushsharma.fam@idfcbank)
