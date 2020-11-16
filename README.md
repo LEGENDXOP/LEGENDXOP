@@ -14,7 +14,7 @@ Country = "🇮🇳"
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
-- ⚜️Most of my Repositories are for Telegram
+- ⚜️Most Of My Repositories Are For Telegram
 
 ![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
 
