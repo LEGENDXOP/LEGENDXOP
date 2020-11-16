@@ -25,7 +25,7 @@ Country = "🇮🇳"
 
 ## Follow on:
 <p align="left">
-<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-blue?logo=telegram"></a>
+<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
