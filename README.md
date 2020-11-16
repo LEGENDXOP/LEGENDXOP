@@ -3,7 +3,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "Cyber Boy Ayush"
-who_i_am = ['Coding Luv Hai Hamara ❣️']
+who_i_am = ['Coding = ❣️']
 Age = "19"
 Country = "🇮🇳"
 ```
