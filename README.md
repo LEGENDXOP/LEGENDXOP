@@ -10,7 +10,7 @@ Country = "🇮🇳"
 #### 
 [![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](https:mailto:cyberboyayush@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Views&color=orange&style=plastic" alt="CyberBoyAyush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=plastic" alt="CyberBoyAyush" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
