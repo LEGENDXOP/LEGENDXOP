@@ -20,7 +20,7 @@ Country = "🇮🇳"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
 
-[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.github.io/)
+[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
 
 
 ## Follow on:
