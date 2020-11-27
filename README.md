@@ -8,7 +8,6 @@ Age = "19"
 Country = "🇮🇳"
 ```
 #### 
-## My Github Stats💛
 [![telegram badge](https://img.shields.io/badge/@CyberBoyAyush-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
 [![mailid badge](https://img.shields.io/badge/CyberBoyAyush-30302f?style=for-the-badge&logo=gmail)](https:mailto:cyberboyayush@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
@@ -16,6 +15,8 @@ Country = "🇮🇳"
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
 - ⚜️Most Of My Repositories Are For Telegram
+
+<h4 align="center"><b>My GitHub Stats💛</b></h4>
 
 ![CyberBoyAyush Git Stats](https://github-stats-alpha.vercel.app/api/?username=CyberBoyAyush&cc=000&tc=39FF14&ic=fff)
 
