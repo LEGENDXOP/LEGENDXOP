@@ -18,9 +18,9 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![CyberBoyAyush Git Stats](https://github-readme-stats.vercel.app/api?username=CyberBoyAyush&include_all_commits=true&count_private=true&theme=highcontrast)
+![LEGENDX Git Stats](https://github-readme-stats.vercel.app/api?username=legendx22&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberBoyAyush&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendx22&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
 
 [![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
 
