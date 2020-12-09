@@ -20,27 +20,7 @@ Country = "🇮🇳"
 
 ![LEGENDX Git Stats](https://github-readme-stats.vercel.app/api?username=legendx22&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendx22&layout=compact&theme=radical)](https://github.com/CyberBoyAyush)
-
-[![portfolio badge](https://img.shields.io/badge/Check_out_my-portfolio-rblue?style=for-the-badge&logo=git&logoColor=white)](https://cyberboyayush.in)
-
-
-## Follow on:
-<p align="left">
-<a href="https://telegram.me/AyushBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-Ayush%20Bots-darkblue?style=for-the-badge&logo=telegram"></a>
-</p>
-<p align="left">
-<a href="https://github.com/CyberBoyAyush"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?style=for-the-badge&logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/CyberBoyAyush"><img src="https://img.shields.io/badge/Instagram-CyberBoyAyush-magenta?style=for-the-badge&logo=instagram"></a>
-</p>
-
-## Donate Me:
-[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/ayushsharma.fam@idfcbank)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendx22&layout=compact&theme=radical)](https://github.com/legendx22)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
