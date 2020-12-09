@@ -1,14 +1,14 @@
-### 🙏 Pranam <img src="https://github.com/legendx22/LEGENDX/blob/master/gifs/Hi.gif" width="30px"></h2>
+### 🙏 HELLO <img src="https://github.com/legendx22/LEGENDX/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "Cyber Boy Ayush"
+Name = "LEGEND X"
 who_i_am = ['Coding = ❣️']
-Age = "19"
+Age = "15"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/CyberBoyAyush)
+[![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
 [![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
