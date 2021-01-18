@@ -1,4 +1,4 @@
-### 🙏 HELLO <img src="https://github.com/legendx22/LEGENDX/blob/master/gifs/Hi.gif" width="30px"></h2>
+### 🙏 HELLO <img src="https://github.com/legendxop/LEGENDX/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 ### About 🙋🏻‍♂️
 ```python
@@ -10,7 +10,7 @@ Country = "🇮🇳"
 #### 
 [![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
 [![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberBoyAyush&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
@@ -18,9 +18,9 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![LEGENDX Git Stats](https://github-readme-stats.vercel.app/api?username=legendx22&include_all_commits=true&count_private=true&theme=highcontrast)
+![LEGENDX Git Stats](https://github-readme-stats.vercel.app/api?username=legendxop&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendx22&layout=compact&theme=radical)](https://github.com/legendx22)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendxop&layout=compact&theme=radical)](https://github.com/legendxop)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
