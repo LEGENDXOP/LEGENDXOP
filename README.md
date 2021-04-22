@@ -1,4 +1,4 @@
-### 🙏 HELLO <img src="https://github.com/legendxop/LEGENDX/blob/master/gifs/Hi.gif" width="30px"></h2>
+###⚡ HELLO ⚡
 
 ### About 🙋🏻‍♂️
 ```python
