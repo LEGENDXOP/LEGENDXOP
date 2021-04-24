@@ -3,7 +3,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "LEGEND X"
-who_i_am = ['Coding = ❣️']
+who_i_am = ['Coding':  '❣️']
 Age = "15"
 Country = "🇮🇳"
 ```
