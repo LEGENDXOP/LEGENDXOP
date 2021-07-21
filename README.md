@@ -9,11 +9,11 @@ Country = "🇮🇳"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@LEGENDX22-30302f?style=for-the-badge&logo=telegram)](https://t.me/legendx22)
-[![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:contact@cyberboyayush.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="CyberBoyAyush" /> </p>
+[![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:legendxx08377@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="Legendx" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
+- ☀️Python Lover
 - ⚜️Most Of My Repositories Are For Telegram
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
