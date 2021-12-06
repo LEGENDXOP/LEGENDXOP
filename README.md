@@ -4,7 +4,6 @@
 ```python
 Name = "LEGEND X"
 who_i_am = ['Coding':  '❣️']
-Age = "16"
 Country = "🇮🇳"
 ```
 #### 
