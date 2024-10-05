@@ -11,9 +11,9 @@ Country = "🇮🇳"
 [![mailid badge](https://img.shields.io/badge/LEGENDX-30302f?style=for-the-badge&logo=gmail)](mailto:legendxx08377@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legendxop&label=Profile%20Views&color=orange&style=flat-square" alt="Legendx" /> </p>
 
-- 😄I'm Still Learning Git & GitHub
-- ☀️Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
+- 😄 I'm Still Learning Android Development
+- ☀️ I Love Python And Kotlin
+- ⚜️ Most Of My Repositories Are For Telegram
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
