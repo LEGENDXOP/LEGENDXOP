@@ -24,11 +24,12 @@
 
 ---
 
-### 🎯 Fun (Optional – Remove If You Don’t Want)  
-- 🐱 VS Code theme collector (can’t stick to one 🤯)  
+### 🎯 Fun 
+- 🖤 “Code is like a relationship: if you don’t communicate clearly, it breaks.”
 - ☕ Survives only on caffeine & late-night debugging  
 - 🎮 Gaming keeps me sane, coding keeps me alive  
-- ⚡ Random fact: I probably have more unfinished projects than finished ones 😅  
+- ⚡ I do foreplay with console.log before I go in raw with debugger.
+- 🖤 My pull requests are like late-night texts: risky, unreviewed, but still get merged.
 
 ---
 
