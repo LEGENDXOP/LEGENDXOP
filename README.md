@@ -25,7 +25,7 @@
 ---
 
 ### 🎯 Fun 
-- 🖤 “Code is like a relationship: if you don’t communicate clearly, it breaks.”
+- 🍷 “Code is like a relationship: if you don’t communicate clearly, it breaks.”
 - ☕ Survives only on caffeine & late-night debugging  
 - 🎮 Gaming keeps me sane, coding keeps me alive  
 - ⚡ I do foreplay with console.log before I go in raw with debugger.
