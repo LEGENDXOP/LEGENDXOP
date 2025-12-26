@@ -35,7 +35,7 @@
 
 ### 📬 Connect With Me  
 - 📩 Email: **legendxcoder@gmail.com**  
-- 💬 Telegram: [LEGENDXDEV](https://t.me/LEGENDX)  
+- 💬 Telegram: [LEGENDX](https://t.me/LEGENDX)  
 
 ---
 ⭐️ *“Code. Break. Fix. Repeat.”*
